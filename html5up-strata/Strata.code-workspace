@@ -1,0 +1,8 @@
+{
+	"folders": [],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"PracticeProject/PracticeProject.sqlproj"
+		]
+	}
+}
